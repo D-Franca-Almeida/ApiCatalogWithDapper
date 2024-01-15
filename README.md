@@ -1,1 +1,1 @@
-# ApiCatalogWithDapper
+# ApiCatalogWithMinimalAPI
